@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "545924217321",
+    "project_id": "utslogin-853dc",
+    "storage_bucket": "utslogin-853dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545924217321:android:50066cf7ef5e60921d3378",
+        "android_client_info": {
+          "package_name": "com.keuangan.utslogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545924217321-8uftickeo04f6i87ou9at8dl2nkiefqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0FBHvvlV734kByni_Bhb2YPjl3G5IZ4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545924217321-8uftickeo04f6i87ou9at8dl2nkiefqd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
